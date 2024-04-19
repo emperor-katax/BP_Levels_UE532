@@ -11,7 +11,10 @@ Home: www.kataxwork.com
 This application:
 
 >simple game prototype with 2 levels
->saving scores between levels and game logic.
+
+>saving scores between levels
+>
+>game logic
 
 >Player need to pick items in the map in order to move a platform which teleport player to next level. 
 
